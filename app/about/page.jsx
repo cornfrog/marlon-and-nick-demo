@@ -1,5 +1,8 @@
 export default function About() {
     return (
-        <h1>This is my about page!</h1>
+        <>
+        <h2>This is my new about</h2>
+        <p>Some text I wanna add</p>
+        </>
     );
 }
